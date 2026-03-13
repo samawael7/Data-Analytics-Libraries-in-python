@@ -10,14 +10,13 @@
 |---|---|
 | ![Age](Data%20Analytics%20Project/visualizations/age_distribution.png) | ![Blood](Data%20Analytics%20Project/visualizations/blood_type_donut.png) |
 
-| Eye Color Heatmap | Role Distribution |
-|---|---|
-| ![Heatmap](Data%20Analytics%20Project/visualizations/eyecolor_gender_heatmap.png) | ![Roles](Data%20Analytics%20Project/visualizations/role_distribution.png) |
-
 | Top 10 Cities | Gender in Top Cities |
 |---|---|
 | ![Cities](Data%20Analytics%20Project/visualizations/top_cities.png) | ![Gender](Data%20Analytics%20Project/visualizations/gender_top5_cities.png) |
 
+| Role Distribution | Top Departments |
+|---|---|
+| ![Roles](Data%20Analytics%20Project/visualizations/role_distribution.png) | ![Departments](Data%20Analytics%20Project/visualizations/top_departments.png) |
 ---
 
 ## 🧠 Business Questions Answered
