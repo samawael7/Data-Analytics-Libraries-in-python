@@ -6,18 +6,17 @@
 
 ## 🖼️ Project Preview
 
-<!-- Add your visualization screenshots here -->
 | Age Distribution | Blood Type Distribution |
 |---|---|
-| ![Age](visualizations/age_distribution.png) | ![Blood](visualizations/blood_type_donut.png) |
+| ![Age](Data%20Analytics%20Project/visualizations/age_distribution.png) | ![Blood](Data%20Analytics%20Project/visualizations/blood_type_donut.png) |
 
 | Eye Color Heatmap | Role Distribution |
 |---|---|
-| ![Heatmap](visualizations/eyecolor_gender_heatmap.png) | ![Roles](visualizations/role_distribution.png) |
+| ![Heatmap](Data%20Analytics%20Project/visualizations/eyecolor_gender_heatmap.png) | ![Roles](Data%20Analytics%20Project/visualizations/role_distribution.png) |
 
 | Top 10 Cities | Gender in Top Cities |
 |---|---|
-| ![Cities](visualizations/top_cities.png) | ![Gender](visualizations/gender_top5_cities.png) |
+| ![Cities](Data%20Analytics%20Project/visualizations/top_cities.png) | ![Gender](Data%20Analytics%20Project/visualizations/gender_top5_cities.png) |
 
 ---
 
@@ -53,17 +52,23 @@
 
 ## 📁 Project Structure
 ```
-project/
-├── data/
-│   └── users.json
-├── visualizations/
-│   ├── age_distribution.png
-│   ├── top_cities.png
-│   ├── blood_type_donut.png
-│   ├── eyecolor_gender_heatmap.png
-│   ├── gender_top5_cities.png
-│   └── role_distribution.png
-└── analysis.ipynb
+repo/
+├── Data Analytics Project/
+│   ├── Data/
+│   │   └── users.json
+│   ├── visualizations/
+│   │   ├── age_distribution.png
+│   │   ├── top_cities.png
+│   │   ├── blood_type_donut.png
+│   │   ├── eyecolor_gender_heatmap.png
+│   │   ├── gender_top5_cities.png
+│   │   └── role_distribution.png
+│   └── analysis.ipynb
+├── Matplotlib/
+├── NumPy/
+├── Pandas/
+├── Seaborn Basics & Styling/
+└── README.md
 ```
 
 ---
@@ -79,7 +84,7 @@ project/
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/yourusername/user-analytics
+git clone https://github.com/samawael7/Data-Analytics-Libraries-in-python
 pip install pandas requests seaborn matplotlib jupyter
 jupyter notebook analysis.ipynb
 ```
